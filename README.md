@@ -23,6 +23,8 @@ JavaScript (Vanilla)
 This is a frontend-only project.
 
 No cart or login functionality included.
+![{675BDAB6-3074-4181-B5B4-79598F9B2404}](https://github.com/user-attachments/assets/4cc60ae0-76b2-477b-b13f-b478a51f4087)
+
 
 🎯 Purpose
 This project was built as a part of my learning journey and submitted as a mini project.
