@@ -28,4 +28,9 @@ No cart or login functionality included.
 
 🎯 Purpose
 This project was built as a part of my learning journey and submitted as a mini project.
+![{2A5ADDF1-4640-4855-BE21-9C36CE038CB6}](https://github.com/user-attachments/assets/a3d57bb8-491c-41ca-b1dc-52dc0424941d)
+
+![{F9D8AB70-1411-4EEA-B300-666A863AB7A3}](https://github.com/user-attachments/assets/43b0de45-6e13-48d0-a2dd-80c1f13d51e1)
+
+
 
